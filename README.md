@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Hkumar145/Hkumar145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi 👋  
 ## 💫 About Me:  
 My name is **[Hemant Kumar]**, I'm a **Web Developer** and **GCP Cloud Specialist**. I specialize in building scalable web applications using **React**, **HTML/CSS**, and managing cloud infrastructure with **Google Cloud Platform**. I enjoy optimizing performance, automating tasks, and exploring new tools and technologies. Always open to collaborating on innovative projects!
 
