@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 💫 About Me:  
-My name is **[Hemant Kumar]**, I'm a **Web Developer** and **GCP Cloud Specialist**. I specialize in building scalable web applications using **React**, **HTML/CSS**, and managing cloud infrastructure with **Google Cloud Platform**. I enjoy optimizing performance, automating tasks, and exploring new tools and technologies. Always open to collaborating on innovative projects!
+My name is **Hemant Kumar**, I'm a **Web Developer** and **GCP Cloud Specialist**. I specialize in building scalable web applications using **React**, **HTML/CSS**, and managing cloud infrastructure with **Google Cloud Platform**. I enjoy optimizing performance, automating tasks, and exploring new tools and technologies. Always open to collaborating on innovative projects!
 
 - 🔭 I’m currently working on building scalable applications with **Google Cloud Platform** and **React**.  
 - 🌱 I’m currently learning more about **cloud automation** and **advanced React patterns**.  
