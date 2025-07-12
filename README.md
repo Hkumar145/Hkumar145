@@ -7,7 +7,7 @@ My name is **Hemant Kumar**, I'm a **Web Developer** and **GCP Cloud Specialist*
 - 👯 I’m looking to collaborate on projects involving **cloud infrastructure** and **full-stack development**.  
 - 🤔 I’m looking for help with **optimizing performance** in large-scale applications.  
 - 💬 Ask me about **cloud architecture**, **React development**, and **scalable web solutions**.  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/hemant-e) | [Twitter](https://twitter.com/yourtwitter).  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/hemant-e) | [Portfolio](https://www.hemantkmr.dev/).  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I love exploring new technologies and creating innovative solutions to solve real-world problems.
 
